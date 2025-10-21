@@ -16,7 +16,7 @@
 ├─ provider.tf.tf                # AWS provider + region/account config
 ├─ terraform.tfvars              # Your env defaults (edit here)
 ├─ web.sh.sh, app.sh.sh          # Bootstrap/user-data style scripts for tiers
-└─ README.md                     # You’re reading it (rename from README.md.md if needed)
+└─ README.md                     # Comprehensive project documentation explaining architecture, Terraform structure, module relationships, and deployment workflow
 ```
 
 ### How root files drive `modules/`
